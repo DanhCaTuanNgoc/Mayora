@@ -1,0 +1,9 @@
+# Test artifacts & logs
+.playwright-mcp/
+*.log
+.gemini/
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
